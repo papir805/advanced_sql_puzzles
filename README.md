@@ -4,6 +4,7 @@ My SQL queries, which are solutions for puzzles found here: https://github.com/s
 Completed all puzzles, except for 4.
 
 To-Do:
+------
 - [ ] Puzzle #17 - De-Grouping
 - [ ] Puzzle #24 - Page Views
 - [ ] Puzzle #27 - Delete the Duplicates
