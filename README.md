@@ -12,3 +12,5 @@ To-Do:
 - [ ] Puzzle #24 - Page Views
 - [ ] Puzzle #27 - Delete the Duplicates
 - [ ] Puzzle #30 - Select Star
+
+![MySQL](https://github.com/papir805/advanced_sql_puzzles/blob/main/thumbnail.png)
