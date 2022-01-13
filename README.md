@@ -1,12 +1,13 @@
 # advanced_sql_puzzles
-Afun way to practice using joins, window functions, subqueries, common table expressions, and more, including documentation of my logic and multiple solutions in certain cases.![image](https://user-images.githubusercontent.com/57574444/148909932-3ce9a2c0-5dcd-436c-a4a6-9ca1b429933f.png)
+
+## About:
+A fun way to practice using joins, window functions, subqueries, common table expressions, and more, including documentation of my logic and multiple solutions in certain cases.  All SQL queries are written in MySQL. 
 
 
-SQL queries I've written in MySQL, which are solutions for puzzles found here: https://github.com/smpetersgithub/AdvancedSQLPuzzles/blob/main/Advanced%20SQL%20Puzzles/Advanced%20SQL%20Puzzles.pdf
+## How to use this repository:
+Click on [this link](https://github.com/smpetersgithub/AdvancedSQLPuzzles/blob/main/Advanced%20SQL%20Puzzles/Advanced%20SQL%20Puzzles.pdf) to view the PDF file containing the questions for the puzzles, then click on any of the .sql files in this repository to view the queries that I wrote, which solve that puzzle.  Each .sql file is numbered to correspond with the problem number found in the PDF file.
 
-Completed **all** puzzles, except for the ones listed below.
-
-To-Do:
+## Puzzles still left to-do:
 ------
 - [ ] Puzzle #17 - De-Grouping
 - [ ] Puzzle #24 - Page Views
